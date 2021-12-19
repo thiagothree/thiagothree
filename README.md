@@ -1,13 +1,25 @@
-# Hi there 🖐 I'm Thiago🙋‍♂️ # 
- #### Hi, I'm from Brazil and I'm a recent front-end student. ####
- ![Alt Text](https://media1.tenor.com/images/39828c7dab661d0a305b43744dd9745e/tenor.gif?itemid=8527799)
- 
- 💻📱How to reach me :)
+## Opa🖐, me chamo Thiago😆🙋‍♂️ ##
+
+<div align="center">
+ <p>From: Brasil <br> Learning: Desenvolvimento Front-end</p>
+ <img src="https://c.tenor.com/VkRCJzYGdQMAAAAC/pc-man.gif"/> <br>
   
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiagosousa-js/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thiagosousa.js/) [<img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://pt.stackoverflow.com/users/260006/thiago-sousa?tab=profile)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />]() [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thiagothree)
+ ##
  
+  <a href="https://github.com/thiagothree">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagothree&show_icons=true&theme=dark&title_color=d17718&border_color=ae5b05&text_color=895a28&border_radius=20px&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagothree&layout=compact&langs_count=16&theme=dark&title_color=d17718&text_color=895a28&border_radius=20px&border_color=ae5b05"/>
+</div>
+<div style="display: inline_block" align="center"><br>
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+</div> <br>
  
-  👩‍💻  Languages  [🔝](https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome-badges-4-readmemd-profile) :)
-  
-  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+##
+<div align="center">
+ <a href="https://twitter.com/thiagothree" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/thiagosousa-js/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://t.me/thgs_black" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
